@@ -1,2 +1,2 @@
 # HackLab-Skoltech
-Nvidia, Sbermarket, Sbermarket, and AstraZeneca Hackathons
+Nvidia, Lenta, Sbermarket, and AstraZeneca Hackathons
