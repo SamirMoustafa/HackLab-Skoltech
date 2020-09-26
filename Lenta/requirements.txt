@@ -1,3 +1,6 @@
+matplotlib
+scikit-learn
+MulticoreTSNE
 pyarrow
 fastparquet
 parquet
